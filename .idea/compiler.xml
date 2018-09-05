@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="idea" target="1.5" />
+      <module name="idea" target="1.7" />
       <module name="test" target="1.7" />
     </bytecodeTargetLevel>
   </component>
