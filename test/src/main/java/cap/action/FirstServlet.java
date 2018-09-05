@@ -13,7 +13,7 @@ public class FirstServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         PrintWriter out = resp.getWriter();
-        out.print("hello servlet");
+        out.print("hello word");
         out.close();
     }
 
